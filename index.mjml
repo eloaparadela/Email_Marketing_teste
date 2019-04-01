@@ -1,14 +1,9 @@
-<mjml>
-  <mj-head>
-    <mj-title>Test</mj-title>
-  </mj-head>
+<mjml >
   <mj-body background-color="black">
-   
-   <mj-section>
-      <mj-column width="100%">
-        <mj-image src="img\imagens\Programaçao-fevereiro_01.jpg" alt="header image" padding="0px"></mj-image>
-         
-      </mj-column>
+   <mj-section border="0">
+      <mj-column >
+        <mj-image  src="img\imagens\Programaçao-fevereiro_01.jpg" alt="header image" padding="0px"></mj-image>
+  </mj-column>
     </mj-section>
 
 
@@ -51,7 +46,7 @@
 
 <mj-section background-color="#5a0a00" > 
        <mj-column >
-            <mj-image src="img\imagens\Programaçao-fevereiro_05.jpg"  padding="0px"></mj-image>
+            <mj-image  width="255px" src="img\imagens\9.jpg" ></mj-image>
       </mj-column>
     </mj-section>
 
